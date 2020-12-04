@@ -1,0 +1,30 @@
+.header{
+	min-height:100px;
+	background-color:indigo;
+
+}
+
+.container{
+	border:5px solid mediumaquamarine
+
+}
+
+.blog{
+	float:left;
+	width:60%;
+	min-height:200px;
+	background-color:moccasin;
+}
+
+.contact{
+	float:right;
+	width:25%;
+	min-height:200px;
+	background-color:slateblue;
+}
+
+.footer{
+	clear:both;
+	min-height:100px;
+	background-color:lightblue;
+}
